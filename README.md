@@ -1,23 +1,45 @@
-# Flutter Notes App
+# Flutter Notes App (Supabase)
 
-A simple Flutter Notes application built as part of Flutter Internship practice.  
-This app allows users to create, edit, and manage notes with a clean UI and custom app icon.
+A Flutter Notes application built as part of a Flutter Internship task.  
+The app uses **Supabase** as the backend for authentication and database operations and demonstrates proper Git & GitHub workflow practices.
 
-## Features
-- Add, edit, and delete notes
-- Local data storage
-- Custom app icon
-- Simple and clean UI
+---
+
+## 📱 Project Overview
+
+This Notes App allows users to:
+- Sign up and log in using Supabase Authentication
+- Create, edit, and delete notes
+- Store notes securely in Supabase database
+- Experience a clean UI with a custom app icon and splash screen
+
+The project also demonstrates practical usage of Git commands, branching, pull requests, and conflict resolution.
+
+---
+
+## ✨ Features
+
+- User Authentication (Login & Signup) using Supabase
+- Create, edit, and delete notes
+- Supabase backend integration
 - Splash screen
-- Authentication screens (Login & Signup)
+- Custom app icon
+- Clean and simple UI
+- Proper Git commit history and branching
 
-## Tech Stack
-- Flutter
-- Dart
-- Supabase
-- Git & GitHub
+---
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vani-bosamiya412/flutter-notes-app.git
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Supabase (Auth + Database)**
+- **Git & GitHub**
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/vani-bosamiya412/flutter-notes-app.git
