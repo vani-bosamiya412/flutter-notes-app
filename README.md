@@ -14,7 +14,7 @@ This app allows users to create, edit, and manage notes with a clean UI and cust
 ## Tech Stack
 - Flutter
 - Dart
-- SQLite / Local storage
+- Supabase
 - Git & GitHub
 
 ## Setup Instructions
