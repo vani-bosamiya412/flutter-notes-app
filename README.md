@@ -6,7 +6,7 @@ proper Git & GitHub workflow practices.
 
 ---
 
-## 📱 Project Overview
+## Project Overview
 
 This Notes App allows users to:
 
@@ -20,7 +20,7 @@ conflict resolution.
 
 ---
 
-## ✨ Features
+## Features
 
 - User Authentication (Login & Signup) using Supabase
 - Create, edit, and delete notes
@@ -31,7 +31,7 @@ conflict resolution.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Flutter**
 - **Dart**
@@ -40,7 +40,7 @@ conflict resolution.
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
