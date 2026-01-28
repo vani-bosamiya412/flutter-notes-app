@@ -1,6 +1,6 @@
 # Flutter Notes App (Supabase)
 
-A Flutter Notes application built as a part of a Flutter Internship task.  
+A Flutter Notes application created for Git conflict practice.
 The app uses **Supabase** as the backend for authentication and database operations and demonstrates
 proper Git & GitHub workflow practices.
 
