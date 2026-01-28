@@ -28,7 +28,6 @@ conflict resolution.
 - Splash screen
 - Custom app icon
 - Clean and simple UI
-- Proper Git commit history and branching
 
 ---
 
